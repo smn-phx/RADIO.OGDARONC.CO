@@ -1,0 +1,43 @@
+
+html,
+body {
+  height: 100%;
+  background-color: #FFC726;
+
+}
+
+h2 {
+  color: #987554;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-style: italic;
+
+}
+
+.entertainment {
+  background-color: #FFC726;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.player {
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  margin-top: inherit;
+
+}
+
+.logo {
+  margin-bottom: -20%;
+
+}
+
+.jukebox {
+  color: #987554;
+  
+
+}
