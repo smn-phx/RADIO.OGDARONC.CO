@@ -25,6 +25,7 @@ h2 {
 
 .player {
   text-align: center;
+  align-content: center;
   width: 300px;
   height: 300px;
   margin-top: inherit;
@@ -38,6 +39,6 @@ h2 {
 
 .jukebox {
   color: #987554;
-  
+
 
 }
